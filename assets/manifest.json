@@ -1,0 +1,19 @@
+{
+	"manifest_version": 3,
+	"name": "Name of extension",
+	"description": "",
+	"version": "1.0.0",
+	"action": {
+		"default_icon": "favicon.png",
+		"default_popup": "index.html",
+		"title": "title"
+	},
+	"icons": {
+		"16": "favicon.png",
+		"48": "favicon.png",
+		"128": "favicon.png"
+	},
+	"permissions": [
+		"storage"
+	]
+}
